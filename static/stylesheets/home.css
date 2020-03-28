@@ -4,7 +4,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("https://i.imgur.com/IWUpHa1.jpg");
+  background-image: url("/static/img/webimage.jpg");
   height: 500px;
   background-color: #cccccc;
   background-position: center;
